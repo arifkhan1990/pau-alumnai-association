@@ -1,0 +1,92 @@
+.img-container-compnay-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatarIcon {
+	justify-content: center;
+	padding-left: 8px;
+}
+
+.company-avatar{
+    border-radius: 25% !important;
+}
+
+.dashBlog {
+	height: 450px;
+}
+
+.dashBlog-scroll {
+	overflow: auto;
+}
+
+
+
+.card {
+	margin-top: 1rem;
+	margin-bottom: 0;
+}
+
+.card-congratulations .avatar {
+    margin-bottom: 0;
+}
+
+
+.birthWishCard{
+    padding: 1rem 1rem;
+}
+
+// .profile-latest-img img {
+// 	margin-top: 1.2rem;
+// }
+
+.birthday-person-img img {
+	margin-top: 1.2rem;
+}
+
+.birthday-person-img {
+	padding-right: calc(var(--bs-gutter-x) * .3);
+    padding-left: calc(var(--bs-gutter-x) * .3);
+}
+
+.budget-wrapper-2 {
+    text-align: center;
+}
+
+.revenue-report-wrapper-2 {
+    padding: 1.286rem 1.5rem;
+    padding-top: 1.286rem;
+    padding-right: .5rem;
+    padding-bottom: 1.286rem;
+    padding-left: 1.5rem;
+}
+
+.marginLeft {
+	margin-left: 120px;
+}
+
+.marginL-5 {
+    margin-left: 5px;
+}
+
+// .apply-job-package-dashboard {
+    // padding: 0.4rem;
+    // margin-bottom: 1.15rem;
+// }
+
+.card-apply-job-d .apply-job-package-d {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.4rem;
+    margin-bottom: 1.15rem;
+}
+
+.vacancy {
+    font-size: 16px;
+}
+
+.avatar2 img{
+    border-radius: 25% !important;
+}
