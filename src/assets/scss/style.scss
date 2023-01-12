@@ -90,3 +90,89 @@
 .avatar2 img{
     border-radius: 25% !important;
 }
+
+.midea-player {
+    box-shadow: 0 4px 24px 0 rgb(188, 71, 217);
+    border-radius: 25px;
+}
+
+.img-h {
+    height: 350px;
+}
+.slider-box {
+    box-shadow: 0px 2px 6px 2px rgb(15, 70, 190);
+    border-radius: 10px;
+    width: 140px;
+    height: 100px;
+}
+.overide-bgColor {
+    background: none !important;
+}
+.img-size {
+    width: 140px !important;
+    height: 100px !important;
+    box-shadow: 0px 2px 6px 2px rgb(15, 190, 184);
+    border-radius: 10px;
+}
+.img-size:hover {
+    width: 150px !important;
+    height: 110px !important;
+    box-shadow: 0px 2px 6px 2px rgb(15, 70, 190);
+    border-radius: 10px;
+}
+
+.img-size2 {
+    width: 90%;
+    height: 98%;
+    border-radius: 5px;
+    box-shadow: 1px 2px 3px 2px #6882e9;
+}
+.text-opacity{
+    opacity: 0.6;
+    line-height: 0.4rem !important;
+}
+.h-img-group {
+    height:110px;
+    box-shadow: 3px 3px 5px 3px #68e9c4;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.h-img-group:hover {
+    height:130px;
+    box-shadow: 3px 3px 5px 3px #82e968;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.img-size2:hover {
+    box-shadow: 1px 2px 3px 2px #e9e768;
+}
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+  }
+  .converflow_box_shado {
+    box-shadow: 5px 5px 8px 5px #6f8b6d;
+    border-radius: 10px;
+  }
+
+  .card_box_shado {
+    border-radius: 10px;
+    width: 300px !important;
+    height: 300px !important;
+  }

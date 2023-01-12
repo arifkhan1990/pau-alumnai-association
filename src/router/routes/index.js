@@ -9,6 +9,7 @@ import UiElementRoutes from './UiElements'
 import ExtensionsRoutes from './Extensions'
 import PageLayoutsRoutes from './PageLayouts'
 import EventRoutes from './Events'
+import GalleryRoutes from './Gallery'
 // ** Document title
 const TemplateTitle = '%s - PAU CSE & CSIT Alumni Association'
 
@@ -26,7 +27,8 @@ const Routes = [
   ...FormRoutes,
   ...TablesRoutes,
   ...EventRoutes,
-  ...ChartsRoutes
+  ...ChartsRoutes,
+  ...GalleryRoutes
 ]
 
 export { DefaultRoute, TemplateTitle, Routes }
